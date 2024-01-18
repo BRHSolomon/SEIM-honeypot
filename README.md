@@ -1,8 +1,8 @@
-<h1> SEIM in Microsoft Azure Sentinel </h1>
+<h1> SEIM Prepared in Microsoft Azure Sentinel Map </h1>
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot. I observed live attacks (RDP Brute Force) from all around the world. The I used a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map.
 <br />
 
 
