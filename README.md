@@ -42,40 +42,64 @@ Access Virtual Machine:  <br/>
 <img src="https://i.imgur.com/LwtxCBv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Failed log in test:  <br/>
+Failed login test:  <br/>
 <img src="https://i.imgur.com/iTX4X6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Event veiwer in virtual machine:  <br/>
+<img src="https://i.imgur.com/Qkpcima.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Failed login in event viewer:  <br/>
+<img src=https://i.imgur.com/rGnNK5q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+The login data will be sent to API to create a custom log:  <br/>
+<img src="https://i.imgur.com/jBWvsEC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Turn of firewall in virtual machine:  <br/>
+<img src="https://i.imgur.com/AzlhMYB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+In Powershell run custom script:  <br/>
+<img src="https://i.imgur.com/IVIahFG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Script results generated in hidden file:  <br/>
+<img src="https://i.imgur.com/IXwa5CZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Failed log in test:  <br/>
-<img src="https://i.imgur.com/iTX4X6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
+Copy to notepad on home computer:  <br/>
+<img src="https://i.imgur.com/gMhnqOw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Failed log in test:  <br/>
-<img src="https://i.imgur.com/iTX4X6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
 <br />
-Failed log in test:  <br/>
-<img src="https://i.imgur.com/iTX4X6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
+Create custom log:  <br/>
+<img src="https://i.imgur.com/yTIENdD.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4GM44D2.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
-Failed log in test:  <br/>
-<img src="https://i.imgur.com/iTX4X6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
 <br />
-Failed log in test:  <br/>
-<img src="https://i.imgur.com/iTX4X6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
+Run custom log:  <br/>
+<img src="https://i.imgur.com/nU7opVX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Failed log in test:  <br/>
-<img src="https://i.imgur.com/iTX4X6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
 <br />
-Failed log in test:  <br/>
-<img src="https://i.imgur.com/iTX4X6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
+Create and edit new workbook:  <br/>
+<img src="https://i.imgur.com/BUWhFs5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hjOjRnb.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
-Failed log in test:  <br/>
-<img src="https://i.imgur.com/iTX4X6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Run custom query:  <br/>
+<img src="https://i.imgur.com/3wYVuKV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Initial Failed RDP Map generated:  <br/>
+<img src="https://i.imgur.com/roEywkJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+72 hour Failed RDP Map:  <br/>
+<img src="https://i.imgur.com/MBaEPsC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
