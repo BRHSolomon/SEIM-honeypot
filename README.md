@@ -15,7 +15,7 @@ I setup Azure Sentinel (SIEM) and connected it to a live virtual machine acting 
 
 - <b>Windows 11</b>
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Create a Virtual Machine: <br/>
